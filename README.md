@@ -4,6 +4,7 @@ This simple Java file helps to check valid Bangladeshi mobile number.
 # How to use
 1. Copy 'NumberValidityChecker.java' file to your project.
 2. Create an object of NumberValidityChecker like following
+
    NumberValidityChecker checker = new NumberValidityChecker();
 3. Then call the 'isValidNumber' method with the number you want to check as parameter.
    checker.isValidNumber('number parameter');
